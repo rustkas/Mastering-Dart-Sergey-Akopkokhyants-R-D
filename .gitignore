@@ -1,7 +1,7 @@
 .dart_tool/
 .packages
 .vscode
-pubspec.loc
+pubspec.lock
 # Conventional directory for build outputs
 build/
 
